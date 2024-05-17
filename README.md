@@ -83,10 +83,10 @@ while True:
 ```
 ## OUTPUT
  ### CLIENT:
- ![TODAY1](https://github.com/Yuvaranithulasingam/SocketStudy/assets/121418522/55f2bd97-cb02-43ca-aec4-05d802fa431a)
+ <img src="https://github.com/Yuvaranithulasingam/SocketStudy/assets/121418522/55f2bd97-cb02-43ca-aec4-05d802fa431a.type" width="700" height="500">
 
  ### SERVER:
- ![TODAY2](https://github.com/Yuvaranithulasingam/SocketStudy/assets/121418522/4fde0043-693b-4662-b305-ad5b86224744)
+<img src="https://github.com/Yuvaranithulasingam/SocketStudy/assets/121418522/4fde0043-693b-4662-b305-ad5b86224744.type" width="700" height="500">
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
